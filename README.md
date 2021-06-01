@@ -8,7 +8,8 @@ Uses supervised learning to estimate patient wait time.  Given current status of
 
 ## Files
 
-- Project3 Draft Paper - DavisA.pdf - Read for some background and methodology
+- Zero_Trust_Presentation.pptx - Watch Slideshow for a demonstration of my results
+- Zero_Trust_Paper.pdf - Read for some background and methodology
 - 1-Zero_Trust_Traffic_Detector-EDA.ipynb - Jupyter Notebook Python file - Data Preparation & EDA
 - 1-Zero_Trust_Traffic_Detector-EDA.pdf - PDF of Python Data Preparation & EDA
 - 2-Zero_Trust_Viz.pbix - MS PowerBI file - Visualizations
