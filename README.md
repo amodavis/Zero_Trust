@@ -1,7 +1,7 @@
 # Zero_Trust - A machine learning case study for supervised binary classification.
 
 ## Description
-Uses supervised learning to estimate patient wait time.  Given current status of waiting and treatment areas, provides estimated wait.
+Uses supervised learning to classify incoming network traffic as either Tor or non-Tor.
 
 ## Programming Languages
 - Python
